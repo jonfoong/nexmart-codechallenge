@@ -6,7 +6,7 @@ code challenge for data analyst role at nexmart
 2. Install dependencies: `poetry install`
 3. Activate the virtual env: `poetry shell`
 3. Density plot in PowerBI uses `ggplot2` in `R`
-    - inside an R console, run `install.packages("ggplot2")
+    - inside an R console, run `install.packages("ggplot2")`
 
 # running notebook
 The assignment is in **[notebooks/assignment.ipynb](notebooks/assignment.ipynb)**.
