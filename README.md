@@ -9,4 +9,7 @@ code challenge for data analyst role at nexmart
     - inside an R console, run `install.packages("ggplot2")`
 
 # running notebook
-The assignment is in **[notebooks/assignment.ipynb](notebooks/assignment.ipynb)**.
+The assignment is located in **[notebooks/assignment.ipynb](notebooks/assignment.ipynb)**.
+
+# dashboard
+The dashboard is located in **[dashboards/data_quality_and_sales.pbix](dashboards/data_quality_and_sales.pbix)**.
